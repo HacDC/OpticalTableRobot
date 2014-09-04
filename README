@@ -6,7 +6,7 @@ mirage335-site.dyndns.org
 
 Advanced multi-tool factory based on OpenRail.
 
-Intended to simultaneously operate multiple milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools. Simulations indicate deflection should be 8mm/metricTon of lateral force.
+Intended to simultaneously operate multiple milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools.
 
 See render.png for assembly overview, or download free eDrawings viewer for further investigation.
 
