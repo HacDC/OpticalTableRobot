@@ -1,0 +1,48 @@
+Copyright (C) 2013 mirage335
+See the end of the file for license conditions.
+See license.txt for OpticalTableRobot license conditions.
+
+mirage335-site.dyndns.org
+
+Advanced multi-tool factory based on OpenRail.
+
+Intended to simultaneously operate multiple milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools. Simulations indicate deflection should be 8mm/metricTon of lateral force.
+
+See render.png for assembly overview, or download free eDrawings viewer for further investigation.
+
+Comparable to FlexReplicator, but on a massive scale with enhanced precision, thanks to HacDC's 800lbs OpticalTable. This is the kind of machine one might use to 3D print large herringbone power transmissions for lost PLA casting, or carry out a VLSI production run.
+
+Mechanical loads are expected to be far below the table's damage threshold, allowing it to remain aligned to optical tolerances.
+
+__FutureWork__
+Openbuilds has intriguing ACME high-pitch threaded rod actuators. Unfortunately, no allowance for anti-backlash is made, so these are unlikely to be used.
+
+Standard timing belts may prove inadeuate for such a large ultra-precise machine. Vectran rope is a possibe substitute.
+
+OpenBuilds has discontinued hardcoat aluminum rails in favor of polycarbonate wheels. While little if any performance degradation is expected, these substitutions need to be reflected in CAD model materials and BOM data.
+
+Supply chain issues are common to many parts in the BOM, secondary suppliers should be added.
+
+__ReprapStatus__
+Similarly to the FlexReplicator, a few 3D printed plastic brackets are used, and may be self-replicated. As rigidity was a primary concern, most components are metal, and not 3D printable.
+
+However, unlike other RepRaps, this platform was explicitly designed for a variety of functionality, including CNC milling, PCB manufacture, and even semiconductor fabrication. Theoretically, one might manufacture intermediate equipment (eg. aluminum extruder, lathe).
+
+__Copyright Extensions__
+Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
+
+__Copyright__
+This file is part of OpticalTableRobot.
+
+OpticalTableRobot is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+OpticalTableRobot is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with OpticalTableRobot.  If not, see <http://www.gnu.org/licenses/>.

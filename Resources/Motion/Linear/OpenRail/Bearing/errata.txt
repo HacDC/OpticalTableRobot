@@ -1,0 +1,1 @@
+V-Wheel model is intentionally not completely accurate, to permit meshing with accurate OpenRail model.

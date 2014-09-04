@@ -1,0 +1,1 @@
+Files in this folder were derived from files obtained at http://www.openbuilds.com/ at http://www.openbuilds.com/resources/solidworks-v2013-parts-files-updated-4-27-2014.38/. They, and all modifications to them, retain their original license, CC-BY-SA, GPLv3 compatible, unless a different license is noted in their file.
