@@ -1,0 +1,13 @@
+75ft * http://openbuildspartstore.com/gt2-2mm-timing-belt/
+3 * http://openbuildspartstore.com/belt-crimp-clamp/
+3 * http://openbuildspartstore.com/belt-tension-torsion-spring/
+
+Limit switches and associated brackets (not part of CAD model).
+
+Scrap wood, threaded rod, bearings, spool (optional spool holder).
+
+Various tools (eg. FDM extruder).
+
+PCB heater and pyrex glass surface (heated FDM build platform).
+
+RAMPS controller.
